@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For premium scroll animations, hero entrances, and interactive hover states"
+  "react-hook-form": "For robust lead capture form handling"
+  "@hookform/resolvers": "For Zod schema validation integration with react-hook-form"
+  "zod": "For form schema validation"
+  "clsx": "For conditional class names"
+  "tailwind-merge": "For merging tailwind classes safely"
+  "lucide-react": "For UI icons throughout the site"
+
+images: []
+
+notes:
+  - "Using provided images from the public directory (/ba1.jpg, /coach1.jpg, etc.)"
+  - "Assuming generated API hooks in @workspace/api-client-react are fully functional"
+  - "Implementing single-page smooth scroll architecture"

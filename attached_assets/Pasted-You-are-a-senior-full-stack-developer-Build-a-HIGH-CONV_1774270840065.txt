@@ -1,0 +1,200 @@
+You are a senior full-stack developer.
+
+Build a HIGH-CONVERTING premium website for an online fitness coach.
+
+Project Name: Mohamed Ahmed Fitness Coaching Platform
+
+STACK:
+- Frontend: React + Tailwind CSS
+- Backend: Node.js + Express
+- Database: simple JSON or lightweight DB (for leads)
+- Deployment-ready
+
+GOAL:
+Create a conversion-focused website that turns visitors into paying clients.
+
+---
+
+🎨 DESIGN SYSTEM:
+
+- Dark theme (black / #0f0f0f background)
+- Accent color: gold (#FFD700) OR electric blue (#00BFFF)
+- Modern, minimal, premium UI
+- Smooth animations (Framer Motion or CSS animations)
+- Rounded cards, soft shadows, glassmorphism
+
+Typography:
+- Bold headings (strong masculine feel)
+- Clean readable text
+
+---
+
+📱 FULL WEBSITE STRUCTURE:
+
+1. HERO SECTION:
+- Full viewport height
+- Background: image/video (placeholder)
+- Headline: "Transform Your Body. Build Your Best Version."
+- Subheadline: "Online coaching with real results"
+- Primary CTA: "Start Your Transformation"
+- Secondary CTA: "View Results"
+- Animated entrance (fade + slide)
+- Button hover effects (scale + glow)
+
+---
+
+2. SOCIAL PROOF STRIP:
+- "Trusted by 100+ clients"
+- Animated scrolling or fade-in
+- Optional placeholder for Instagram stats
+
+---
+
+3. BEFORE & AFTER SECTION (CRITICAL):
+
+- Grid layout (responsive)
+- Each card:
+   → before/after images
+   → hover effect: zoom + overlay text
+   → transformation details
+- Add filtering buttons:
+   (Fat Loss / Muscle Gain / Recomp)
+- Smooth scroll animations
+
+---
+
+4. WHY CHOOSE HIM:
+
+- 4 animated cards:
+   → Custom Plans
+   → Daily Support
+   → Proven Results
+   → Fast Progress
+- Hover: scale + glow
+
+---
+
+5. HOW IT WORKS:
+
+- 3-step system:
+   Step 1: Apply
+   Step 2: Get Plan
+   Step 3: Transform
+- Animated timeline or cards
+
+---
+
+6. ABOUT SECTION:
+
+- Image + text
+- Add animated counters:
+   → Clients transformed
+   → Years training
+   → Success rate
+- Smooth fade-in animation
+
+---
+
+7. PRICING SECTION:
+
+- 3 plans:
+   Basic / Pro / Elite
+- Each card includes:
+   → features
+   → price (editable)
+- Highlight "Most Popular"
+- Hover animation
+
+---
+
+8. TESTIMONIALS:
+
+- Carousel slider
+- Auto-slide animation
+- Client image + review
+
+---
+
+9. LEAD CAPTURE FORM (VERY IMPORTANT):
+
+Fields:
+- Name
+- Age
+- Goal
+- WhatsApp Number
+
+Backend:
+- Save submissions in database
+- Create API endpoint POST /leads
+- Store data
+
+---
+
+10. CTA SECTION:
+
+- Strong headline:
+   "Stop waiting. Start transforming today."
+- Button: "Join Now"
+- Add urgency:
+   "Limited spots available"
+
+---
+
+11. FOOTER:
+
+- Social links
+- Contact info
+
+---
+
+⚡ ADVANCED FEATURES:
+
+- Sticky CTA button
+- Floating WhatsApp button
+   → opens: https://wa.me/<number>?text=I want to join
+- Smooth scrolling
+- Scroll-triggered animations
+- Image hover zoom
+- Button glow effects
+
+---
+
+🧠 CONVERSION OPTIMIZATION:
+
+- Repeat CTA buttons frequently
+- Add urgency text
+- Highlight transformations
+- Keep UX simple and fast
+
+---
+
+⚙️ ADMIN / EDITABILITY:
+
+- All images replaceable easily
+- Prices editable from a config file
+- Content structured cleanly
+
+---
+
+📱 RESPONSIVENESS:
+
+- Mobile-first design
+- Perfect on all screen sizes
+
+---
+
+🚀 PERFORMANCE:
+
+- Fast loading
+- Optimized images
+- Clean code
+
+---
+
+FINAL RESULT:
+
+The website should feel like a premium fitness brand, extremely modern, highly animated, and designed to convert visitors into clients.
+
+It should be good enough to sell for 10,000–20,000 EGP.
+
+Build complete working code with frontend + backend + instructions to run.

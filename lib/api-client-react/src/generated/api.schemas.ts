@@ -8,3 +8,27 @@
 export interface HealthStatus {
   status: string;
 }
+
+export interface CreateLeadRequest {
+  /** @minLength 1 */
+  name: string;
+  /** @minLength 1 */
+  age: string;
+  /** @minLength 1 */
+  goal: string;
+  /** @minLength 1 */
+  whatsapp: string;
+}
+
+export interface Lead {
+  id: number;
+  name: string;
+  age: string;
+  goal: string;
+  whatsapp: string;
+  createdAt: string;
+}
+
+export interface ErrorResponse {
+  error: string;
+}

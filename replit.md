@@ -4,6 +4,22 @@
 
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
+## Artifacts
+
+### `artifacts/fitness-website` — Mohamed Ahmed Fitness Coaching Website
+- Full-page premium fitness coaching website (dark gold theme, glassmorphism)
+- Sections: Hero, Social Proof Strip, Before/After Transformations, Features, How It Works, About, Pricing, Testimonials, Lead Capture Form, Final CTA, Footer
+- Real transformation photos in `/public/ba1.jpg` through `/ba6.jpg`
+- Coach photos in `/public/coach1.jpg` through `/coach5.jpg`
+- Framer Motion animations, mobile-first responsive
+- Lead form submits to `POST /api/leads`
+- Floating WhatsApp button
+
+### `artifacts/api-server` — Express API Server
+- Leads endpoint: `POST /api/leads` — saves name/age/goal/whatsapp to DB
+- Leads list: `GET /api/leads` — returns all leads
+
+
 ## Stack
 
 - **Monorepo tool**: pnpm workspaces
